@@ -70,3 +70,7 @@ And you are ready to go.
 
 If checking out from git for the first time also do `autoreconf -i`
 before doing `./configure`.
+
+Other Links:
+
+1、[compile sshfs fail @Homebrew](https://github.com/Homebrew/legacy-homebrew/issues/16926)
